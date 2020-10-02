@@ -1,4 +1,4 @@
-### Hi there 👋
+<p><samp><b>Hello World</b></samp></p>
 
 <!--
 **thjiang/thjiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<p><samp>I'm a <b>Computer Science</b> undergraduate student at <a href="http://www.unisinos.br/">UNISINOS</a> in São Leopoldo, <b>Brazil</b>.</samp></p>
+<p><samp>I'm passionate about <b>Competitive Programming</b>, <b>Web Development</b> and <b>Open Source</b>.</samp></p>
 -->
